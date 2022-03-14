@@ -113,6 +113,14 @@ input, select, textarea {
 			transition: none !important;
 		}
 
+		.myPhoto{
+			max-width: 300px;
+			max-height: 400px;
+		}
+
+		.projectTitle{
+			padding-left: 30% !important;
+		}
 /* Type */
 
 	html {
